@@ -1,6 +1,4 @@
 入口
 
-```
-https://wgjh5.github.io/weibo/dist/#/home/hot
-```
+[我的微博](https://wgjh5.github.io/weibo/dist/#/home/hot)
 
